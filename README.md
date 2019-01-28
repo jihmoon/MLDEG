@@ -1,5 +1,6 @@
 # About MLDEG
 MLDEG v1.0	by Ji Hwan Moon
+![Figure](https://github.com/jihmoon/MLDEG/blob/master/overview.png)
 
 # Script Files
 * netFeatures.py
